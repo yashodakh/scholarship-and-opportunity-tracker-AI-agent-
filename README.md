@@ -1,2 +1,22 @@
-# scholarship-and-opportunity-tracker-AI-agent-
-The Scholarship &amp; Opportunity Tracker Agent is an AI-powered system designed to help students discover and track scholarships, internships, hackathons, workshops, competitions, research programs, and placement opportunities from multiple sources in one place.
+# Scholarship and Opportunity Tracker
+
+An AI-powered platform that helps students discover, track, and manage scholarships, internships, fellowships, grants, and career opportunities. The system analyzes user profiles, academic backgrounds, skills, and interests to provide personalized recommendations, monitor application deadlines, and send timely notifications.
+
+## Live Demo
+
+Try the Scholarship & Opportunity Advisor chatbot here:
+
+[chatbot.getmindpal.com](https://reference-url-citation.invalid/0)
+
+## Features
+
+- Personalized scholarship recommendations
+- Internship and fellowship discovery
+- Opportunity tracking and management
+- Deadline monitoring and reminders
+- AI-powered student guidance
+- User-friendly chatbot interface
+
+## Author
+
+Yashodha K H
