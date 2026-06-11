@@ -5,8 +5,7 @@ An AI-powered platform that helps students discover, track, and manage scholarsh
 ## Live Demo
 
 Try the Scholarship & Opportunity Advisor chatbot here:
-
-[chatbot.getmindpal.com](https://reference-url-citation.invalid/0)
+Scholarship & Opportunity Advisor⁠�
 
 ## Features
 
